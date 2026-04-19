@@ -6,17 +6,17 @@
   "config_category": "sales",
   "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
   "config_name": "Tech-Ready Restaurants in Rhode Island, US",
-  "export_job_id": "1f9ed635-45a6-48b5-bd69-040fe6f64e08",
+  "export_job_id": "2e7c973c-ada9-4fb5-9b11-0d1e61383d81",
   "github_org": "Beamstation-Datasets",
   "id_short": 132677,
   "location_name": "Rhode Island",
   "location_type": "state",
   "repo_name": "tech-ready-restaurants-in-rhode-island-us-sample-132677",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/132677/beamstation_132677_restaurants-us-ri_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 14.29,
   "sample_records": 1,
-  "sample_sha256": "e76f536b163093ae7d6e88c211866ef86d20df5b8e44e773182617f10e4ab225",
-  "sample_size_bytes": 20124,
-  "total_records": 10,
-  "updated_at": "2026-04-08T04:20:57.487379+00:00"
+  "sample_sha256": "e1c056c38f54e9b810e0801f6dfd7f4952eeb608f7878e34af530085eea9a1b8",
+  "sample_size_bytes": 20100,
+  "total_records": 7,
+  "updated_at": "2026-04-15T08:59:31.649333+00:00"
 }
