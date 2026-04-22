@@ -9,9 +9,9 @@
 | Dataset ID | `132677` |
 | Location | Rhode Island |
 | Category | Restaurants |
-| Full dataset size | 7 records |
-| Free sample size | 1 records (14.29%) |
-| Last export | 2026-04-15T08:59:31.649333+00:00 |
+| Full dataset size | 4 records |
+| Free sample size | 1 records (25.0%) |
+| Last export | 2026-04-22T16:13:39.595131+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-rhode-island-us-sample-132677/releases/download/sample-latest/beamstation_132677_restaurants-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
