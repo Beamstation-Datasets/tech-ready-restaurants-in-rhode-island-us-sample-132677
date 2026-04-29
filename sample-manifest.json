@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9b09df46-3a7b-4b60-92d1-a92662a56ffd",
+  "export_job_id": "ef648a61-9e5f-4061-b62a-e14e0ffb7552",
   "id_short": 132677,
-  "published_at": "2026-04-22T19:15:57Z",
+  "published_at": "2026-04-29T19:35:54Z",
   "repo_name": "tech-ready-restaurants-in-rhode-island-us-sample-132677",
   "sample_asset_name": "beamstation_132677_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/132677/beamstation_132677_restaurants-us-ri_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "522255bd4eeed67cfa61ecba4c9b8fe417136abaf094dcc36a192102aae7faf3",
-  "sample_size_bytes": 20100,
-  "total_records": 4
+  "sample_sha256": "d0c04ae6976012fb2ee15a09d03101379027ca1da01d089243e31d5900c8d830",
+  "sample_size_bytes": 20219,
+  "total_records": 14
 }
